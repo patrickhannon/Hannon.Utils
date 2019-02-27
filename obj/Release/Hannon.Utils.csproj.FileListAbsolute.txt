@@ -3,3 +3,4 @@ C:\SourceControl\Hannon.Utils\bin\Release\Hannon.Utils.pdb
 C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.csproj.CoreCompileInputs.cache
 C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.dll
 C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.pdb
+C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.csprojAssemblyReference.cache

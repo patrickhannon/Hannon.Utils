@@ -7,12 +7,12 @@ namespace Hannon.Utils
 {
     public static class Utils
     {
-        public static void LogToEventLog(string source, string message)
+        public static void LogToEventLog(string source, string message, EventLogEntryType type)
         {
             using (EventLog eventLog = new EventLog(source))
             {
                 eventLog.Source = source;
-                eventLog.WriteEntry(message, EventLogEntryType.Information, 101, 1);
+                eventLog.WriteEntry(message, type, 101, 1);
             }
         }
 
