@@ -4,3 +4,17 @@ C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.csproj.CoreCompileInputs.
 C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.dll
 C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.pdb
 C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.csprojAssemblyReference.cache
+C:\SourceControl\Hannon.Utils\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.Helpers.dll
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.Mvc.dll
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.Razor.dll
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.WebPages.Deployment.dll
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.WebPages.dll
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.WebPages.Razor.dll
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.Helpers.xml
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.Mvc.xml
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.Razor.xml
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.WebPages.xml
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.WebPages.Deployment.xml
+C:\SourceControl\Hannon.Utils\bin\Release\System.Web.WebPages.Razor.xml
+C:\SourceControl\Hannon.Utils\obj\Release\Hannon.Utils.csproj.CopyComplete

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hannon.Util
 {
-    public static class MarksExtensions
+    public static class HanExtensions
     {
         public static bool ContainsString(this String source, string toCheck, StringComparison comp)
         {

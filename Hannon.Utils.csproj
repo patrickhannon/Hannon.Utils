@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Hannon.Utils</RootNamespace>
     <AssemblyName>Hannon.Utils</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
@@ -73,7 +73,7 @@
     <Compile Include="Extensions.cs" />
     <Compile Include="Helpers.cs" />
     <Compile Include="JsonHelper.cs" />
-    <Compile Include="MarksExtensions.cs" />
+    <Compile Include="HanExtensions.cs" />
     <Compile Include="Models\CountryCodesModel.cs" />
     <Compile Include="Models\ReplacementModel.cs" />
     <Compile Include="Models\ResponseMessage.cs" />
