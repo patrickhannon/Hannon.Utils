@@ -14,7 +14,6 @@ using System.Web;
 using System.Web.Helpers;
 using System.Web.Mvc;
 using Hannon.Utils.Models;
-//using Csla.Security;
 using Hannon.Util.Model;
 using Hannon.Utils;
 using Hannon.Utils.Models;
@@ -23,7 +22,7 @@ namespace Hannon.Util
 {
     public static class Helpers
     {
-        public static string Marks_email_domain = "@markspp.com";
+        public static string Marks_email_domain = "@hannon.com";
         public static readonly int MAX_STRING_LENGTH = 220;
         public static readonly int MARK_NO_MIN_LEN = 5;
         public static readonly int MAX_DESC_LEN = 101;
