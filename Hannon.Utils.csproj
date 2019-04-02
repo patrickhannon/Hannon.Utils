@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BCrypt.Net, Version=0.1.5073.29922, Culture=neutral, PublicKeyToken=6bcd409ee6bc9292, processorArchitecture=MSIL">
+      <HintPath>..\WebFormsTester\packages\BCrypt-Official.0.1.109\lib\BCrypt.Net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\Hannon.ECommerce\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
     </Reference>
@@ -68,6 +71,7 @@
   <ItemGroup>
     <Compile Include="ArgumentValidator.cs" />
     <Compile Include="CardTypeInfo.cs" />
+    <Compile Include="encrypt\BCrypt.cs" />
     <Compile Include="MaxWordsAttribute.cs" />
     <Compile Include="EmailTemplates.cs" />
     <Compile Include="ExceptionMessage.cs" />
@@ -87,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Hannon.Utils.sln" />
+    <Content Include="LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

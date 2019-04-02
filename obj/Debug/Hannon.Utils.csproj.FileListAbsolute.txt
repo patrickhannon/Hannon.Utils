@@ -18,3 +18,15 @@ C:\SourceControl\Hannon.Utils\obj\Debug\Hannon.Utils.csproj.CopyComplete
 C:\SourceControl\Hannon.Utils\obj\Debug\Hannon.Utils.dll
 C:\SourceControl\Hannon.Utils\obj\Debug\Hannon.Utils.pdb
 C:\SourceControl\Hannon.Utils\obj\Debug\Hannon.Utils.csprojAssemblyReference.cache
+C:\SourceCode\Hannon.Utils\bin\Debug\Hannon.Utils.dll
+C:\SourceCode\Hannon.Utils\bin\Debug\Hannon.Utils.pdb
+C:\SourceCode\Hannon.Utils\bin\Debug\BCrypt.Net.dll
+C:\SourceCode\Hannon.Utils\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\SourceCode\Hannon.Utils\bin\Debug\BCrypt.Net.pdb
+C:\SourceCode\Hannon.Utils\bin\Debug\BCrypt.Net.xml
+C:\SourceCode\Hannon.Utils\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\SourceCode\Hannon.Utils\obj\Debug\Hannon.Utils.csprojAssemblyReference.cache
+C:\SourceCode\Hannon.Utils\obj\Debug\Hannon.Utils.csproj.CoreCompileInputs.cache
+C:\SourceCode\Hannon.Utils\obj\Debug\Hannon.Utils.csproj.CopyComplete
+C:\SourceCode\Hannon.Utils\obj\Debug\Hannon.Utils.dll
+C:\SourceCode\Hannon.Utils\obj\Debug\Hannon.Utils.pdb
