@@ -6,16 +6,20 @@ using System.Threading.Tasks;
 
 namespace Hannon.Utils.encrypt
 {
-    public static class BCrypt
+    public static class BCryptHelper
     {
+
+
         public static string HashPassword(string pwd)
         {
-            return BCrypt.HashPassword(pwd);
+            var salt = BCrypt.Net.BCrypt.GenerateSalt();
+            string myHash = BCrypt.Net.BCrypt.HashPassword(pwd, salt);
+            return myHash;
         }
 
         public static bool VerifyPassword(string submittedPwd, string hashedPwd)
         {
-            return BCrypt.VerifyPassword(submittedPwd, hashedPwd);
+            return BCrypt.Net.BCrypt.Verify(submittedPwd, hashedPwd);
         }
     }
 }

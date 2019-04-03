@@ -71,7 +71,7 @@
   <ItemGroup>
     <Compile Include="ArgumentValidator.cs" />
     <Compile Include="CardTypeInfo.cs" />
-    <Compile Include="encrypt\BCrypt.cs" />
+    <Compile Include="Encrypt\BCryptHelper.cs" />
     <Compile Include="MaxWordsAttribute.cs" />
     <Compile Include="EmailTemplates.cs" />
     <Compile Include="ExceptionMessage.cs" />
